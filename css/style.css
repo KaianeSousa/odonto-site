@@ -212,7 +212,7 @@ body{
 }
 .whats{
     position: fixed;
-    bottom: 12px;
+    bottom: 25px;
     right: 25px;
     z-index: 9999;
 }
